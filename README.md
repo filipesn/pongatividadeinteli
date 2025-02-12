@@ -33,13 +33,13 @@ Uma identidade visual mais notável
 
 *Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
 Primeira pensamos do ambiente preto e branco, que evolui para um ambiente de cozinha, e adicionamos os outros elementos por isso.
-<img  src="../assets/rascunho.jfif">
-
+<img src="../assets/rascunho.jfif" width="600" height="300">
+*tive problemas adiconando as fotos, olhe dentro da pasta assets!
 
 ---
 
 ## 4. Tela Digital do Jogo  
-<img  src="../assets/mockup.png">
+<img src="../assets/mockup.png" width="600" height="300">
 
 *- Como o concept foi adaptado para o formato digital?*
 Canva, não foi muito dificil pois utilizamos objetos reais
